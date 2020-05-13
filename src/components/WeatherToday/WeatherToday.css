@@ -1,0 +1,28 @@
+.WeatherTodayMain {
+  /* width: 25%; */
+  width: 450px;
+  margin: auto;
+  color: #ffffff;
+}
+.WeatherTodaySecond {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.WeatherTodaySecond img {
+  margin: 0px;
+  padding: 0px;
+  min-width: 60%;
+}
+.WeatherTodayWidthFix {
+  width: 50%;
+}
+.WeatherTodayCapitalize::first-letter{
+  text-transform: capitalize;
+}
+.WeatherTodayCapitalize1{
+    text-transform: capitalize;
+  }
+.simpleLeftFix{
+    padding-right: 5px;
+}

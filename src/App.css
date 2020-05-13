@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  /* you can change background image from here  */
+  background-image: url("./BackgroundImage/home.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  min-width: 100%;
+  min-height: 100%;
+
+}
+
+.row {
+  justify-content: center;
+  margin: 15px 0;
+}

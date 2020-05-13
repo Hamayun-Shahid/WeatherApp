@@ -1,0 +1,12 @@
+.WeatherShowMain {
+  height: 420px;
+  width: 220px;
+  background-color: #ffffff;
+  border-radius: 2px;
+  -webkit-box-shadow: -7px -1px 16px -10px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -7px -1px 16px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: -7px -1px 16px -10px rgba(0, 0, 0, 0.75);
+}
+.WeatherShowCapt::first-letter{
+    text-transform: capitalize;
+}

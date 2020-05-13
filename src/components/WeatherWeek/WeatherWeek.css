@@ -1,0 +1,12 @@
+.WeatherWeekMain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 96%;
+  margin: auto;
+}
+@media(min-width:1440px){
+    .WeatherWeekMain {
+    width:80% ;
+    }
+}
